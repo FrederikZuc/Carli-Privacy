@@ -20,7 +20,7 @@ no sharing of data with third parties.
 Contact
 If you contact me via email, the data you provide will be used exclusively to process your request and will not be stored or shared.
 Changes to the Privacy Policy
-This privacy policy may be updated if changes are made to the apps. The current version can always be found at the following link.
+This privacy policy may be updated if changes are made to the apps. The current version can always be found at the following link. https://github.com/FrederikZuc/Carli-Privacy
 
 *****************************************************************************************************************************************
 
@@ -45,4 +45,4 @@ keine Weitergabe von Daten an Dritte.
 Kontakt
 Wenn Sie mich per E-Mail kontaktieren, werden die von Ihnen angegebenen Daten ausschließlich zur Bearbeitung Ihrer Anfrage verwendet und nicht gespeichert oder weitergegeben.
 Änderungen der Datenschutzerklärung
-Diese Datenschutzerklärung kann aktualisiert werden, falls Änderungen an den Apps vorgenommen werden. Die jeweils aktuelle Version finden Sie immer unter folgendem Link.
+Diese Datenschutzerklärung kann aktualisiert werden, falls Änderungen an den Apps vorgenommen werden. Die jeweils aktuelle Version finden Sie immer unter folgendem Link. https://github.com/FrederikZuc/Carli-Privacy
